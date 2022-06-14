@@ -1,0 +1,19 @@
+[
+    {
+       "name" : "Intake Email Address",
+       "address" : "Intake@gmail.com",
+       "id": 1
+    },
+    
+    {
+       "name" : "Team Email Address",
+       "address" : "Team@gmail.com",
+       "id": 2
+    },
+    
+    {
+       "name" : "Escalation Email Address",
+       "address" : "Escalation@gmail.com",
+       "id": 3
+    }
+]
